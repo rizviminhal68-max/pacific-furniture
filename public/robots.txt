@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update to the final domain once it is live.
+Sitemap: https://pacificinteriors.co.in/sitemap.xml
